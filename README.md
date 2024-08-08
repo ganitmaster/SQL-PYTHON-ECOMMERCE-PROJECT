@@ -17,13 +17,13 @@ SQL: For querying and managing data.
 
 Python: For data analysis and visualization.
 
-[Libraries: pandas, matplotlib, seaborn, numpy, sqlite3]
+[Libraries: pandas, matplotlib, seaborn, numpy]
 
 Jupyter Notebook: For developing and sharing the code and analysis.
 
 Database: MySQL.
 
-### Results
+### Analysis 
 The project has provided many insights, some of them are:
 
 Total sales per category.
